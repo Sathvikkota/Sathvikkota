@@ -5,13 +5,13 @@
 <h3 align="center">✨ Collaboration is my superpower, let's build something epic together. ✨</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohan-pasalapudi&label=Profile%20views&color=0e75b6&style=flat" alt="mohan-pasalapudi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sathvikkota&label=Profile%20views&color=0e75b6&style=flat" alt="Sathvikkota" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohan-pasalapudi" alt="mohan-pasalapudi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sathvikkota" alt="Sathvikkota" /></a> </p>
 
-- 🌱 I’m currently learning **React,SpringBoot**
+- 🌱 I’m currently learning **React,Python**
 
-- 📫 How to reach me **2100030406cseh@gmail.com**
+- 📫 How to reach me **2100030279cseh@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JrOBbpL1w03lT8nlbgn_T1uNrTxTLUKr/view?usp=drive_link](https://drive.google.com/file/d/1JrOBbpL1w03lT8nlbgn_T1uNrTxTLUKr/view?usp=drive_link)
 
