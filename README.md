@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **2100030279cseh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JrOBbpL1w03lT8nlbgn_T1uNrTxTLUKr/view?usp=drive_link](https://drive.google.com/file/d/1JrOBbpL1w03lT8nlbgn_T1uNrTxTLUKr/view?usp=drive_link)
+- 📄 Know about me [https://drive.google.com/file/d/1eYFHX_168_gfuK9PvralvDLUTPZwSRVX/view?usp=sharing]
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
