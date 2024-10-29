@@ -47,6 +47,8 @@
 ---
 
 ### 📈 **Contributions**
-- **Total Contributions:** 225  
-- **Longest Streak:** 5 days  
-- **Current Streak:** 0 days  
+
+![Total Contributions](https://img.shields.io/badge/Total%20Contributions-225-2F8D46?style=for-the-badge&logo=github&logoColor=white)
+![Longest Streak](https://img.shields.io/badge/Longest%20Streak-5%20days-2F8D46?style=for-the-badge&logo=github&logoColor=white)
+![Current Streak](https://img.shields.io/badge/Current%20Streak-0%20days-2F8D46?style=for-the-badge&logo=github&logoColor=white)
+ 
