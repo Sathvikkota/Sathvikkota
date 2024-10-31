@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sathvikkota" alt="Sathvikkota" /></a> </p>
 
-- 🌱 I’m currently learning **React,Python**
+- 🌱 I’m currently learning **React,Python,AI**
 
 - 📫 How to reach me **2100030279cseh@gmail.com**
 
